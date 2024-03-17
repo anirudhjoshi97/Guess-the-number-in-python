@@ -1,6 +1,7 @@
 import random
 
 words = ['anirudh', 'JOSHI', 'DILSHAD GARDEN', 'NAME']
+print ("you can guess words from these words: ", words)
 
 computer_guess = random.choice(words)
 
